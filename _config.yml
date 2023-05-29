@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Furkan Sahin"
 title_separator          : "-"
-name                     : &name "Camille Leclerc"
-description              : &description "Postdoc in Ecology"
+name                     : &name "Furkan Sahin"
+description              : &description "Postdoc in Nanoscience and Nanotechnology"
 url                      : https://drsahinfurkan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "drsahinfurkan/drsahinfurkan.github.io"
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Camille Leclerc"
+  name             : "Furkan Sahin"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow"
-  location         : "Aix-en-Provence, FR"
+  bio              : "Postdoctoral Researcher"
+  location         : "Kayseri, TR"
   employer         :
   pubmed           :
-  publons          : "https://publons.com/researcher/4590567/camille-leclerc/"
-  googlescholar    : "https://scholar.google.com/citations?user=fseXcHIAAAAJ&hl=fr"
-  email            : "camille.leclerc@inrae.fr"
-  researchgate     : "https://www.researchgate.net/profile/Camille-Leclerc-5"
+  publons          : ""
+  googlescholar    : "https://scholar.google.com/citations?user=1rMBlf4AAAAJ&hl=tr"
+  email            : "drsahinfurkan@gmail.com"
+  researchgate     : ""
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "CamilleLeclerc"
+  github           : "FurkanSahin"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-5830-1787"
+  orcid            : "https://orcid.org/0000-0001-5409-3925"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "_LeclercCamille"
+  twitter          : "drsahinfurkan"
   vine             :
   weibo            :
   xing             :
@@ -256,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Istanbul # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
